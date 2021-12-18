@@ -14,7 +14,7 @@
 ```
 <p class="Big-title">༈ ཇོ་མཇལ་ཁྲིད་ཡིག་ཡིད་བཞིན་ནོར་བུ། </p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/tree/main/Images/Big-title.png =100x20)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/tree/main/Images/Big-title.png, width="200" height="200")
 
 
 **Type:** Book-title
