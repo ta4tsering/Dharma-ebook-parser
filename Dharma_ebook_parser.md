@@ -196,7 +196,7 @@
 ```
 <p id="_idParaDest-2" class="subtitle"><a id="_idTextAnchor001"></a>རེ་ཞིག་འཁོར་འདས་འཁྲུལ་གྲོལ་ནི། </p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/subtitle.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Subtitle.png)
 
 
 **Type:** Tibetan-Chapter
