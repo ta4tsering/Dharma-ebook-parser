@@ -293,7 +293,7 @@
 ```
 <p class="Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone"><span class="Tibetan-Root-Text _idGenCharOverride-1">མ་སྐྱེས་རིག་པའི་གཤིས་ལ་དཔྱད། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/ Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone.png)
 
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-First-line-alone
