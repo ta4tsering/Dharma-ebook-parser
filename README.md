@@ -19,11 +19,7 @@
 
 **Type:** Book-title
 
-**Syntax:**
-
-'''
-<p class="Book-title">...</p>
-'''
+**Syntax:** `<p class="Book-title">...</p>`
 
 **Description:** this tag indicates the Book title
 
@@ -37,11 +33,7 @@
 
 **Type:** མཛད་པ་པོ།
 
-**Syntax:**
-
-'''
-<p class="མཛད་པ་པོ།">...</p>
-'''
+**Syntax:** `<p class="མཛད་པ་པོ།">...</p>`
 
 **Description:** this tag indicates the creator or author
 
@@ -55,11 +47,7 @@
 
 **Type:** publisher
 
-**Syntax:**
-
-'''
-<p class="publisher" lang="en-US" xml:lang="en-US">...</p>
-'''
+**Syntax:** `<p class="publisher" lang="en-US" xml:lang="en-US">...</p>`
 
 **Description:** this tag indicates the publisher
 
@@ -73,11 +61,7 @@
 
 **Type:** Kar-chak
 
-**Syntax:**
-
-'''
-<p id="_idParaDest-1" class="Kar-chak"><a id="_idTextAnchor000"></a>...</p>
-'''
+**Syntax:** `<p id="_idParaDest-1" class="Kar-chak"><a id="_idTextAnchor000"></a>...</p>`
 
 **Description:** this tag indicates the Table of Content
 
@@ -91,13 +75,9 @@
 
 **Type:** TOC-Body-Text
 
-**Syntax:**
+**Syntax:** `<p class="TOC-Body-Text"><a href="../Text/jowo-1.xhtml#_idTextAnchor001">...</a></p>`
 
-'''
-<p class="TOC-Body-Text"><a href="../Text/jowo-1.xhtml#_idTextAnchor001">...</a></p>
-'''
-
-**Description:** this tag indicates the Table of Content's body text
+**Description:** this tag indicates the Table of Content`s body text
 
 **Text Sample:**
 
@@ -109,11 +89,7 @@
 
 **Type:** tsik-che-first
 
-**Syntax:**
-
-'''
-<p class="tsik-che-first"><span class="CharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="tsik-che-first"><span class="CharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the tsik che first
 
@@ -127,11 +103,7 @@
 
 **Type:** tsik-che
 
-**Syntax:**
-
-'''
-<p class="tsik-che">...</p>
-'''
+**Syntax:** `<p class="tsik-che">...</p>`
 
 **Description:** this tag indicates the tsik che
 
@@ -145,11 +117,7 @@
 
 **Type:** tsik-che-last
 
-**Syntax:**
-
-'''
-<p class="tsik-che-last">...</p>
-'''
+**Syntax:** `<p class="tsik-che-last">...</p>`
 
 **Description:** this tag indicates the tsik che last
 
@@ -163,11 +131,7 @@
 
 **Type:** copyrights
 
-**Syntax:**
-
-'''
-<p class="copyrights ParaOverride-1" lang="en-US" xml:lang="en-US" style="text-align: center;">...</p>
-'''
+**Syntax:** `<p class="copyrights ParaOverride-1" lang="en-US" xml:lang="en-US" style="text-align: center;">...</p>`
 
 **Description:** this tag indicates the copyrights
 
@@ -181,11 +145,7 @@
 
 **Type:** text-first
 
-**Syntax:**
-
-'''
-<p class="text-first">...</p>
-'''
+**Syntax:** `<p class="text-first">...</p>`
 
 **Description:** this tag indicates the text first
 
@@ -199,11 +159,7 @@
 
 **Type:** text
 
-**Syntax:**
-
-'''
-<p class="text">...</p>
-'''
+**Syntax:** `<p class="text">...</p>`
 
 **Description:** this tag indicates the text
 
@@ -217,11 +173,7 @@
 
 **Type:** quote
 
-**Syntax:**
-
-'''
-<p class="quote">...</p>
-'''
+**Syntax:** `<p class="quote">...</p>`
 
 **Description:** this tag indicates the quote
 
@@ -235,11 +187,7 @@
 
 **Type:** subtitle
 
-**Syntax:**
-
-'''
-<p id="_idParaDest-2" class="subtitle"><a id="_idTextAnchor001"></a>...</p>
-'''
+**Syntax:** `<p id="_idParaDest-2" class="subtitle"><a id="_idTextAnchor001"></a>...</p>`
 
 **Description:** this tag indicates the subtitle
 
@@ -253,11 +201,7 @@
 
 **Type:** Tibetan-Chapter
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Chapter">...</p>
-'''
+**Syntax:** `<p class="Tibetan-Chapter">...</p>`
 
 **Description:** this tag indicates the Tibetan Chapter
 
@@ -271,11 +215,7 @@
 
 **Type:** Tibetan-Commentary-Non-Indent
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Commentary-Non-Indent" style="text-align: center;">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Commentary-Non-Indent" style="text-align: center;">...</span></p>`
 
 **Description:** this tag indicates the Tibetan Commentary with No indent
 
@@ -289,11 +229,7 @@
 
 **Type:** Credits-Page_Front-Title
 
-**Syntax:**
-
-'''
-<p class="Credits-Page_Front-Title"><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-8.xhtml#root">...།</a><br/></span><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-9.xhtml#commentary">...</a><br/></span></p>
-'''
+**Syntax:** `<p class="Credits-Page_Front-Title"><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-8.xhtml#root">...།</a><br/></span><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-9.xhtml#commentary">...</a><br/></span></p>`
 
 **Description:** this tag indicates the credits on the page front title
 
@@ -306,11 +242,7 @@
 
 **Type:** Tibetan-Citations-in-Verse_Tibetan-Citations-First-Line
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Citations-in-Verse_Tibetan-Citations-First-Line"><span class="Tibetan-External-Citations _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Citations-in-Verse_Tibetan-Citations-First-Line"><span class="Tibetan-External-Citations _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan citations in verse first line
 
@@ -324,11 +256,7 @@
 
 **Type:** Tibetan-Citations-in-Verse_Tibetan-Citations-Middle-Lines
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Citations-in-Verse_Tibetan-Citations-Middle-Lines"><span class="Tibetan-External-Citations _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Citations-in-Verse_Tibetan-Citations-Middle-Lines"><span class="Tibetan-External-Citations _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan citations in verse middle line
 
@@ -342,11 +270,7 @@
 
 **Type:** Tibetan-Citations-in-Verse_Tibetan-Citations-Last-Line
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Citations-in-Verse_Tibetan-Citations-Last-Line"><span class="Tibetan-External-Citations _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Citations-in-Verse_Tibetan-Citations-Last-Line"><span class="Tibetan-External-Citations _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan citations in verse last line
 
@@ -360,11 +284,7 @@
 
 **Type:** Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan citations in verse first line alone
 
@@ -378,11 +298,7 @@
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-First-line-alone
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Root-Text_Tibetan-Root-Text-First-line-alone"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Root-Text_Tibetan-Root-Text-First-line-alone"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan Root Text First line alone
 
@@ -396,11 +312,7 @@
 
 **Type:** Tibetan-Regular-Indented
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Regular-Indented"><span class="Tibetan-Commentary _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Regular-Indented"><span class="Tibetan-Commentary _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan Regular Indented line
 
@@ -414,11 +326,7 @@
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-First-Line
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Root-Text_Tibetan-Root-Text-First-Line"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Root-Text_Tibetan-Root-Text-First-Line"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan Root Text First line
 
@@ -432,11 +340,7 @@
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-Last-Line
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Root-Text_Tibetan-Root-Text-Last-Line"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Root-Text_Tibetan-Root-Text-Last-Line"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan Root Text Last line
 
@@ -450,11 +354,7 @@
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines
 
-**Syntax:**
-
-'''
-<p class="Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p class="Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines"><span class="Tibetan-Root-Text _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan Root Text MIddle Lines
 
@@ -468,11 +368,7 @@
 
 **Type:** Tibetan-Sabche
 
-**Syntax:**
-
-'''
-<p id="_idParaDest-127" class="Tibetan-Sabche"><span class="Tibetan-Sabche _idGenCharOverride-1">...</span></p>
-'''
+**Syntax:** `<p id="_idParaDest-127" class="Tibetan-Sabche"><span class="Tibetan-Sabche _idGenCharOverride-1">...</span></p>`
 
 **Description:** this tag indicates the Tibetan Sabche
 
@@ -490,10 +386,8 @@
 **Type:** Hyperlink
 
 **Syntax:**
-
-'''
-<span class="Hyperlink">...</span>
-'''
+`
+<span class="Hyperlink">...</span>`
 
 **Description:** this span class tag indicates the hyperlink
 
@@ -507,10 +401,8 @@
 **Type:** CharOverride-1
 
 **Syntax:**
-
-'''
-<span class="CharOverride-1">...</span>
-'''
+`
+<span class="CharOverride-1">...</span>`
 
 **Description:** this span class tag indicates the character override
 
@@ -525,10 +417,8 @@
 **Type:** Credits-Titles-Publishers
 
 **Syntax:**
-
-'''
-<span class="Credits-Titles-Publishers">...</span>
-'''
+`
+<span class="Credits-Titles-Publishers">...</span>`
 
 **Description:** this span class tag indicates the Credits Titles Publishers
 
@@ -543,10 +433,8 @@
 **Type:** Front-Page---Text-Titles
 
 **Syntax:**
-
-'''
-<span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-8.xhtml#root">...</a><br/></span><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-9.xhtml#commentary">...</a><br/></span>
-'''
+`
+<span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-8.xhtml#root">...</a><br/></span><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-9.xhtml#commentary">...</a><br/></span>`
 
 **Description:** this span class tag indicates the Front Page Text Titles
 
@@ -561,10 +449,8 @@
 **Type:** Tibetan-Commentary
 
 **Syntax:**
-
-'''
-<span class="Tibetan-Commentary _idGenCharOverride-1">...</span>
-'''
+`
+<span class="Tibetan-Commentary _idGenCharOverride-1">...</span>`
 
 **Description:** this span class tag indicates Tibetan Commentary
 
@@ -579,10 +465,8 @@ span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་
 **Type:** Tibetan-Footnote
 
 **Syntax:**
-
-'''
-<span class="Tibetan-Footnote">...</span>
-'''
+`
+<span class="Tibetan-Footnote">...</span>`
 
 **Description:** this tag indicates the Tibetan Footnote
 
@@ -597,10 +481,8 @@ span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་
 **Type:** Tibetan-External-Citations
 
 **Syntax:**
-
-'''
-<span class="Tibetan-External-Citations _idGenCharOverride-1">...</span>
-'''
+`
+<span class="Tibetan-External-Citations _idGenCharOverride-1">...</span>`
 
 **Description:** this tag indicates the Tibetan External Citations
 
@@ -615,10 +497,8 @@ span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་
 **Type:** Tibetan-Sabche
 
 **Syntax:**
-
-'''
-<span class="Tibetan-Sabche _idGenCharOverride-1">...</span>
-'''
+`
+<span class="Tibetan-Sabche _idGenCharOverride-1">...</span>`
 
 **Description:** this span class tag indicates the Tibetan Sabche
 
@@ -633,10 +513,8 @@ span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་
 **Type:** Tibetan-Root-Text
 
 **Syntax:**
-
-'''
-<span class="Tibetan-Root-Text _idGenCharOverride-1">...</span>
-'''
+`
+<span class="Tibetan-Root-Text _idGenCharOverride-1">...</span>`
 
 **Description:** this tag indicates the Tibetan Root Text
 
