@@ -363,7 +363,7 @@
 ```
 <p class="Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines"><span class="Tibetan-Root-Text _idGenCharOverride-1">བྱང་ཆུབ་ལམ་དུ་བསྒྱུར་བ་ཡིན། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/ Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines.png)
 
 
 **Type:** Tibetan-Sabche
