@@ -5,11 +5,7 @@
 
 **Type:** Big-title
 
-**Syntax:**
-
-'''
-<p class="Big-title">...</p>
-'''
+**Syntax:** '<p class="Big-title">...</p>'
 
 **Description:** this tag indicates the Big title
 
