@@ -42,7 +42,7 @@
 ```
 <p class="མཛད་པ་པོ།">མཛད་པ་པོ། </p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/author.png)
 
 
 **Type:** publisher
@@ -56,7 +56,7 @@
 ```
 <p class="publisher" lang="en-US" xml:lang="en-US">dharma Ebooks</p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/publisher.png)
 
 
 **Type:** Kar-chak
@@ -70,7 +70,7 @@
 ```
 <p id="_idParaDest-1" class="Kar-chak"><a id="_idTextAnchor000"></a>དཀར་ཆག །</p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Kar-chak.png)
 
 
 **Type:** TOC-Body-Text
@@ -84,7 +84,7 @@
 ```
 <p class="TOC-Body-Text"><a href="../Text/jowo-1.xhtml#_idTextAnchor001">འཁོར་འདས་འཁྲུལ་གྲོལ། </a></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/TOC-Body-Text.png)
 
 
 **Type:** tsik-che-first
@@ -98,7 +98,7 @@
 ```
 <p class="tsik-che-first"><span class="CharOverride-1">ན་མོ་ཤཱཀྱ་མུ་ན་ཡེ། </span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/tsik-che-first.png)
 
 
 **Type:** tsik-che
@@ -112,7 +112,7 @@
 ```
 <p class="tsik-che">བྱང་ཆུབ་སེམས་བསྐྱེད་སྤྱོད་པ་རྒྱ་མཚོ་སྤྱད། །</p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/tsik-che.png)
 
 
 **Type:** tsik-che-last
@@ -126,7 +126,7 @@
 ```
 <p class="tsik-che-last">རིས་མེད་སྐྱེ་བོའི་ཕན་བདེའི་ཆེད་དུ་སྤེལ། །</p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/tsik-che-last.png)
 
 
 **Type:** copyrights
@@ -140,7 +140,7 @@
 ```
 <p class="copyrights ParaOverride-1" lang="en-US" xml:lang="en-US" style="text-align: center;">To translate request permission from Khenpo Ghawang or HH the 17th Karmapa</p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/copyrights.png)
 
 
 **Type:** text-first
@@ -154,7 +154,7 @@
 ```
 <p class="text-first">བདག་ཅག་གི་སྟོན་པ་ཐབས་མཁས་ལ་ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པ་མཉམ་མེད་ཤཱཀྱའི་རྒྱལ་པོ་གང་གི་སྐུ་ཚབ་ཏུ་བྱིན་གྱིས་བརླབས་པ་ལྷ་སའི་ཇོ་བོ་རྣམ་གཉིས་དགའ་མོས་དད་པས་ཇི་ལྟར་མཇལ་བའི་བསྡོམས་ལ། འཁོར་འདས་འཁྲུལ་གྲོལ། དགེ་བ་རང་སྒྲུབ། སྐུ་གཟུགས་བྱུང་བ། མཇལ་སྐོར་ཕྱག་མཆོད། བསྔོ་བ་སྨོན་ལམ། གོ་དོན་སྙིང་པོའོ། །</p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/text-first.png)
 
 
 **Type:** text
@@ -168,7 +168,7 @@
 ```
 <p class="text">དེ་ཡང་ནམ་མཁའ་ལྟར་མཐའ་ཡས་པའི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སེམས་ཉིད་ཀྱི་ངོ་བོ་ཟབ་གསལ་གཉིས་སུ་མེད་པ་ནི་སངས་རྒྱས་རྣམས་དང་རྣམ་དབྱེར་མེད་པ་ཡིན་ཏེ། དེ་བཞིན་གཤེགས་པའི་སྙིང་པོའི་མདོ་ལས། </p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/text.png)
 
 
 **Type:** quote
@@ -182,7 +182,7 @@
 ```
 <p class="quote">རིགས་ཀྱི་བུ་དག་འདི་ནི་ཆོས་རྣམས་ཀྱི་ཆོས་ཉིད་དེ། དེ་བཞིན་གཤེགས་པ་རྣམས་བྱུང་ཡང་རུང་། མ་བྱུང་ཡང་རུང་། སེམས་ཅན་འདི་དག་ནི་རྟག་ཏུ་དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཅན་ཡིན། </p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/quote.png)
 
 
 **Type:** subtitle
@@ -196,7 +196,7 @@
 ```
 <p id="_idParaDest-2" class="subtitle"><a id="_idTextAnchor001"></a>རེ་ཞིག་འཁོར་འདས་འཁྲུལ་གྲོལ་ནི། </p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/subtitle.png)
 
 
 **Type:** Tibetan-Chapter
@@ -210,7 +210,7 @@
 ```
 <p class="Tibetan-Chapter">ཐེག་པ་ཆེན་པོའི་གདམས་ངག་བློ་སྦྱོང་དོན་བདུན་མ།</p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Chapter.png)
 
 
 **Type:** Tibetan-Commentary-Non-Indent
@@ -224,7 +224,7 @@
 ```
 <p class="Tibetan-Commentary-Non-Indent" style="text-align: center;"><span class="Credits-Titles-Publishers">Kagyu Monlam International</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Commentary-Non-Indent.png)
 
 
 **Type:** Credits-Page_Front-Title
@@ -238,7 +238,7 @@
 ```
 <p class="Credits-Page_Front-Title"><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-8.xhtml#root">ཐེག་པ་ཆེན་པོའི་གདམས་ངག་བློ་སྦྱོང་དོན་བདུན་མ།</a><br/></span><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-9.xhtml#commentary">ཐེག་པ་ཆེན་པོའི་བློ་སྦྱོང་དོན་བདུན་མའི་ཁྲིད་ཡིག་བྱང་ཆུབ་གཞུང་ལམ།</a><br/></span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Credits-Page_Front-Title.png)
 
 **Type:** Tibetan-Citations-in-Verse_Tibetan-Citations-First-Line
 
@@ -251,7 +251,7 @@
 ```
 <p class="Tibetan-Citations-in-Verse_Tibetan-Citations-First-Line"><span class="Tibetan-External-Citations _idGenCharOverride-1">བྱམས་པའི་འཁོར་ལོ་སྔོན་དུ་འགྲོ། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Citations-in-Verse_Tibetan-Citations-First-Line.png)
 
 
 **Type:** Tibetan-Citations-in-Verse_Tibetan-Citations-Middle-Lines
@@ -265,7 +265,7 @@
 ```
 <p class="Tibetan-Citations-in-Verse_Tibetan-Citations-Middle-Lines"><span class="Tibetan-External-Citations _idGenCharOverride-1">དོན་གཉིས་ཕྱོགས་ལས་རྣམ་པར་རྒྱལ། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Citations-in-Verse_Tibetan-Citations-Middle-Lines.png)
 
 
 **Type:** Tibetan-Citations-in-Verse_Tibetan-Citations-Last-Line
@@ -279,7 +279,7 @@
 ```
 <p class="Tibetan-Citations-in-Verse_Tibetan-Citations-Last-Line"><span class="Tibetan-External-Citations _idGenCharOverride-1">ཟབ་པས་སངས་རྒྱས་འགྲུབ་དེ་འཆད། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Citations-in-Verse_Tibetan-Citations-Last-Line.png)
 
 
 **Type:** Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone
@@ -293,7 +293,7 @@
 ```
 <p class="Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone"><span class="Tibetan-Root-Text _idGenCharOverride-1">མ་སྐྱེས་རིག་པའི་གཤིས་ལ་དཔྱད། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Citations-in-Verse_Tibetan-Citations-First-line-alone.png)
 
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-First-line-alone
@@ -307,7 +307,7 @@
 ```
 <p class="Tibetan-Root-Text_Tibetan-Root-Text-First-line-alone"><span class="Tibetan-Root-Text _idGenCharOverride-1">དང་པོ་སྔོན་འགྲོ་དག་ལ་བསླབ། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Root-Text_Tibetan-Root-Text-First-line-alone.png)
 
 
 **Type:** Tibetan-Regular-Indented
@@ -321,7 +321,7 @@
 ```
 <p class="Tibetan-Regular-Indented"><span class="Tibetan-Commentary _idGenCharOverride-1">དེ་ལྟར་ཇོ་བོ་རྗེ་ལྷ་གཅིག་གི་བཀའ་སྲོལ་ལས་བྱོན་པའི་བློ་སྦྱོང་གི་གདམས་ངག་བརྒྱུད་པ་སོ་སོའི་ཁྲིད་སྲོལ་ཇི་སྙེད་ཅིག་བཞུགས་པའི་ཉམས་ལེན་གྱི་གནད་དོན་ཐམས་ཅད་དོན་བདུན་གྱི་གཞུང་འདིར་འདུ་བས། ཁྲིད་ཡིག་རྒྱས་བསྡུས་མང་པོ་དང༌། དེ་འཆད་པ་པོ་མཐའ་ཡས་པར་བཞུགས་པ་ལས། ཁྱད་པར་འཕགས་པ་རྒྱལ་སྲས་རིན་པོ་ཆེ་ཐོགས་མེད་ཞབས་དང་རྗེ་བཙུན་ཀུན་དགའ་སྙིང་པོའི་ཁྲིད་ཡིག་དག་ལས་ཁྲིད་ཚུལ་ཞིབ་མོར་ཐོབ་པར། སྐྱེས་ཆེན་ཟུང་གི་གསུང་གི་བདུད་རྩིའི་ཉིང་ཁུ་གཅིག་ཏུ་བསྡུས་ཏེ་ལས་དང་པོ་བས་གོ་སླ་གཙོར་བཏོན། གཞན་ཕན་གྱི་བསམ་པ་བཟང་པོ་ཁོ་ནས་འདུས་གསལ་དུ་བསྡེབས་པའོ། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Regular-Indented.png)
 
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-First-Line
@@ -335,7 +335,7 @@
 ```
 <p class="Tibetan-Root-Text_Tibetan-Root-Text-First-Line"><span class="Tibetan-Root-Text _idGenCharOverride-1">གཏོང་ལེན་གཉིས་པོ་སྤེལ་མར་སྦྱང༌། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Root-Text_Tibetan-Root-Text-First-Line.png)
 
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-Last-Line
@@ -349,7 +349,7 @@
 ```
 <p class="Tibetan-Root-Text_Tibetan-Root-Text-Last-Line"><span class="Tibetan-Root-Text _idGenCharOverride-1">དེ་ཉིད་རླུང་ལ་བསྐྱོན་ཏེ་བྱ། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Root-Text_Tibetan-Root-Text-Last-Line.png)
 
 
 **Type:** Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines
@@ -363,7 +363,7 @@
 ```
 <p class="Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines"><span class="Tibetan-Root-Text _idGenCharOverride-1">བྱང་ཆུབ་ལམ་དུ་བསྒྱུར་བ་ཡིན། །</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/ Tibetan-Root-Text_Tibetan-Root-Text-MIddle-Lines.png)
 
 
 **Type:** Tibetan-Sabche
@@ -377,7 +377,7 @@
 ```
 <p id="_idParaDest-127" class="Tibetan-Sabche"><span class="Tibetan-Sabche _idGenCharOverride-1">འདིར་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་མན་ངག་ཁྱད་པར་དུ་འཕགས་པ་བློ་སྦྱོང་དོན་བདུན་མའི་ཁྲིད་སྟོན་པ་ལ་གསུམ། བརྒྱུད་པའི་བྱུང་ཁུངས། སྤྱིའི་དགོས་དོན། ཁྲིད་གཞུང་དངོས་འཆད་པའོ། །དང་པོ་༼བརྒྱུད་པའི་བྱུང་ཁུངས་༽ནི།</span></p>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Sabche.png)
 
 
 ## HTML span tags
@@ -396,7 +396,8 @@
 ```
 <span class="Hyperlink">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Hyperlink.png)
+
 
 **Type:** CharOverride-1
 
@@ -411,7 +412,7 @@
 ```
 <span class="CharOverride-1">ན་མོ་ཤཱཀྱ་མུ་ན་ཡེ། </span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/CharOverride-1.png)
 
 
 **Type:** Credits-Titles-Publishers
@@ -427,7 +428,7 @@
 ```
 <span class="Credits-Titles-Publishers">Kagyu Monlam International</span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Credits-Titles-Publishers.png)
 
 
 **Type:** Front-Page---Text-Titles
@@ -443,7 +444,7 @@
 ```
 <span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-8.xhtml#root">ཐེག་པ་ཆེན་པོའི་གདམས་ངག་བློ་སྦྱོང་དོན་བདུན་མ།</a><br/></span><span class="Front-Page---Text-Titles _idGenCharOverride-2"><a href="../Text/RDI-SS-05-9.xhtml#commentary">ཐེག་པ་ཆེན་པོའི་བློ་སྦྱོང་དོན་བདུན་མའི་ཁྲིད་ཡིག་བྱང་ཆུབ་གཞུང་ལམ།</a><br/></span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Front-Page---Text-Titles.png)
 
 
 **Type:** Tibetan-Commentary
@@ -459,7 +460,7 @@
 ```
 span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་རྨི་ལམ་ལྟ་བུར་བསམ། །མ་སྐྱེས་རིག་པའི་གཤིས་ལ་དཔྱད། །གཉེན་པོ་ཉིད་ཀྱང་རང་སར་གྲོལ། །ངོ་བོ་ཀུན་གཞིའི་ངང་དུ་བཞག །ཐུན་མཚམས་སྒྱུ་མའི་སྐྱེས་བུར་བྱ། །གཏོང་ལེན་གཉིས་པོ་སྤེལ་མར་སྦྱང༌། །དེ་གཉིས་རླུང་ལ་བསྐྱོན་པར་བྱ། །ཡུལ་གསུམ་དུག་གསུམ་དགེ་རྩ་གསུམ། །སྤྱོད་ལམ་ཀུན་ཏུ་ཚིག་གིས་སྦྱང༌། །ལེན་པའི་གོ་རིམ་རང་ནས་བརྩམ། །</span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Commentary.png)
 
 
 **Type:** Tibetan-Footnote
@@ -475,7 +476,7 @@ span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་
 ```
 <span class="Tibetan-Footnote">གཉིས་པ་དངོས་གཞི་བྱང་སེམས་སྦྱོང་བ་ནི།</span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Footnote.png)
 
 
 **Type:** Tibetan-External-Citations
@@ -491,7 +492,7 @@ span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་
 ```
 <span class="Tibetan-External-Citations _idGenCharOverride-1">བྱམས་པའི་འཁོར་ལོ་སྔོན་དུ་འགྲོ། །</span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-External-Citations.png)
 
 
 **Type:** Tibetan-Sabche
@@ -507,7 +508,7 @@ span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་
 ```
 <span class="Tibetan-Sabche _idGenCharOverride-1">འདིར་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་མན་ངག་ཁྱད་པར་དུ་འཕགས་པ་བློ་སྦྱོང་དོན་བདུན་མའི་ཁྲིད་སྟོན་པ་ལ་གསུམ། བརྒྱུད་པའི་བྱུང་ཁུངས། སྤྱིའི་དགོས་དོན། ཁྲིད་གཞུང་དངོས་འཆད་པའོ། །དང་པོ་༼བརྒྱུད་པའི་བྱུང་ཁུངས་༽ནི།</span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Sabche.png)
 
 
 **Type:** Tibetan-Root-Text
@@ -523,4 +524,4 @@ span class="Tibetan-Commentary _idGenCharOverride-1">ཆོས་རྣམས་
 ```
 <span class="Tibetan-Root-Text _idGenCharOverride-1">དང་པོ་སྔོན་འགྲོ་དག་ལ་བསླབ། །</span>
 ```
-![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Big-title.png)
+![image](https://github.com/ta4tsering/Dharma-ebook-parser/blob/main/Images/Tibetan-Root-Text.png)
