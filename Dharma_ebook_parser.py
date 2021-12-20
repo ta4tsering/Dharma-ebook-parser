@@ -1,4 +1,3 @@
-
 import os
 import re
 from uuid import uuid4
@@ -376,7 +375,7 @@ def get_html_path(ebook_path):
         yield html_path
 
 
-def build_dirs(output_path, id_):
+def build_dirs(opf_path, id_):
     """
     Build the necessary directories for OpenPecha format.
     """
@@ -386,17 +385,17 @@ def build_dirs(output_path, id_):
         pecha_id = get_pecha_id()
 
     dirs = {
-        "opf_path": f"{output_path}/{pecha_id}/{pecha_id}.opf"
+        "pecha_path": f"{opf_path}/{pecha_id}/{pecha_id}.opf"
     }
-    dirs["layers_path"] = Path(f"{dirs['opf_path']}/layers")
-    dirs["base_path"] = Path(f"{dirs['opf_path']}/base")
+    dirs["layers_path"] = Path(f"{dirs['pecha_path']}/layers")
+    dirs["base_path"] = Path(f"{dirs['pecha_path']}/base")
 
     dirs["layers_path"].mkdir(parents=True, exist_ok=True)
     dirs["base_path"].mkdir(parents=True, exist_ok=True)
     return dirs
 
 
-def create_opf(ebook_path, output_path, id_=None):
+def create_opf(ebook_path, opf_path, id_):
     """ It creates the opf of the unzipped ebook with html tags as a layer yaml file.
     
     Args:
@@ -406,11 +405,11 @@ def create_opf(ebook_path, output_path, id_=None):
     """
 
     ebook_path = Path(f"{ebook_path}/OEBPS")
-    dirs = build_dirs(output_path, id_=id_)
+    dirs = build_dirs(opf_path, id_=id_)
 
     # cover image path
     image_path = ebook_path / "Images"
-    asset_path = Path(f"{dirs['opf_path']}/assets")
+    asset_path = Path(f"{dirs['pecha_path']}/assets")
     asset_path.mkdir(exist_ok=True)
     os.system(f"cp -R {image_path} {asset_path}")
     
@@ -419,36 +418,39 @@ def create_opf(ebook_path, output_path, id_=None):
         html = Path(html_path).read_text()
         filename = Path(html_path).stem
         build_base_and_layers(html, filename, dirs )
-    create_metadata(ebook_path, dirs['opf_path'], id_)
+    create_metadata(ebook_path, dirs['pecha_path'], id_)
+    return dirs['pecha_path']
 
-
-def unzip_epub(epub_path, epub_name, output_path):
+def unzip_epub(epub_path, epub_name, ebook_output_path):
     """
     It changes the .epub to .zip and then unzip the zipped ebook.
     returns:
         output_path(str): It is the path of the unzipped ebook.
     """
-    if not os.path.exists(f"{output_path}/{epub_name}"):
-        os.mkdir(f"{output_path}/{epub_name}")
+    if not os.path.exists(f"{ebook_output_path}/{epub_name}"):
+        os.mkdir(f"{ebook_output_path}/{epub_name}")
     epub_path = Path(f"{epub_path}/{epub_name}.epub")
     epub_path.rename(epub_path.with_suffix('.zip'))
     zf = ZipFile(f"{epub_path}/{epub_name}.zip")
-    zf.extractall(f"{output_path}/{epub_name}")
-    return Path(f"{output_path}/{epub_name}")
+    zf.extractall(f"{ebook_output_path}/{epub_name}")
+    return Path(f"{ebook_output_path}/{epub_name}")
 
 
 
-def ebook_to_opf():
-    ebook_output_path = Path(f"./epub_output").mkdir(exist_ok=True)
+def ebook_to_opf(epub_path, data_path, pecha_id=None):
+    opf_path = Path(f"{data_path}/ebook_opf").mkdir(exists_ok=True)
+    epub_name = epub_path.stem
+    ebook_output_path = Path(f"{data_path}/ebook_output").mkdir(exist_ok=True)
     ebook_path = unzip_epub(epub_path, epub_name, ebook_output_path)
-    opf_output_path = "./ebook_opfs"
-    create_opf(ebook_path, opf_output_path, 200)
+    pecha_path = create_opf(ebook_path, opf_path, pecha_id)
+    return pecha_path
 
 
 if __name__=='__main__':   
-    epub_name = "ཇོ་མཇལ་ཁྲིད་ཡིག་ཡིད་བཞིན་ནོར་བུ།" 
-    epub_path = Path(f"./epubs/{epub_name}")     
-    ebook_to_opf(epub_path, epub_name)
+    epub_name = "ཇོ་མཇལ་ཁྲིད་ཡིག་ཡིད་བཞིན་ནོར་བུ།"
+    epub_path = Path(f"./data/epubs/{epub_name}")
+    data_path = Path("./data")
+    pecha_path = ebook_to_opf(epub_path, data_path)
         
 
 
@@ -456,3 +458,4 @@ if __name__=='__main__':
 
 
 
+# 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
