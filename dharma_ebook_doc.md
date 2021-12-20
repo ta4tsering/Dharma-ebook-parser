@@ -6,7 +6,7 @@
  Input Data is
 
 - Dharma Ebooks from Adarsha's website (.epub)
-- Dharma Ebooks[link](https://dharmaebooks.org)
+- [Dharma Ebooks website](https://dharmaebooks.org)
 
 ### Environment Setup
 
