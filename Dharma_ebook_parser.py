@@ -438,6 +438,9 @@ def unzip_epub(epub_path, epub_name, ebook_output_path):
 
 
 def ebook_to_opf(epub_path, data_path, pecha_id=None):
+    """
+        It will unzip the epub and parse through the html to create the opf
+    """
     opf_path = Path(f"{data_path}/ebook_opf").mkdir(exists_ok=True)
     epub_name = epub_path.stem
     ebook_output_path = Path(f"{data_path}/ebook_output").mkdir(exist_ok=True)
