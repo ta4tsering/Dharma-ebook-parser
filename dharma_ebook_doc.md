@@ -5,10 +5,8 @@
  
  Input Data is
 
-- Dharma ebook(.epub)
-
-Dharma Ebook[link](https://gitlab.com/bdrc-data/etextcontents).
-
+- Dharma Ebooks from Adarsha's website (.epub)
+- [link](https://dharmaebooks.org)
 
 ### Environment Setup
 
