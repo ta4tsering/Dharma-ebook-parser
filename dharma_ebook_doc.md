@@ -39,16 +39,13 @@ Dharma Ebook[link](https://gitlab.com/bdrc-data/etextcontents).
         Openpecha toolkit
         To install the openpecha toolkit run this line on your cmd or terminal.
     
-    - `pip install BeautifulSoup`
+    - `pip install BeautifulSoup4`
 
         BeautifulSoup
         To parse through the html of unzipped epub for all the 
-        
+
         - `paragraph Tag <p clas=...>...</p>`
             - `span Tag <span class=...>...</span>`
-
-    - `pip install uuid`
-
 
     **Note**: You need to install pip. 
     
