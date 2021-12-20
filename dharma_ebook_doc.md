@@ -79,4 +79,4 @@
 
 **Note**
 
-You will be required to have the ebook in .epub format. 
+You will be required to have the ebook in .epub format only. This parser will pass through the P Tag `<p>` and Span Tag `<span>` of html of the ebook to create the layer of the opf.
